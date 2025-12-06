@@ -1,5 +1,5 @@
 /*
-GENERATORE BINARIO 8 BIT
+GENERATORE FUNZIONE 8 BIT
 Maso Samuele
 5DIT
 29/11/2025
@@ -213,4 +213,5 @@ void ondaSega(){
     Serial.println(n); //
     delayMicroseconds(d);
   }
+
 }
